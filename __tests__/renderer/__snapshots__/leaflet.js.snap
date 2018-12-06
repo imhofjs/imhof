@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renderLeaflet 1`] = `
+<body>
+  <div
+    id="leaflet-container"
+    style="display: block; transform: scale(0.64);"
+  >
+    <div
+      class="leaflet-container leaflet-grab leaflet-touch-drag"
+      style="width: 156.25%; height: 156.25%; position: relative;"
+      tabindex="0"
+    >
+      <div
+        class="leaflet-pane leaflet-map-pane"
+        style="left: 0px; top: 0px;"
+      >
+        <div
+          class="leaflet-pane leaflet-tile-pane"
+        >
+          <div
+            class="leaflet-layer "
+            style="z-index: 1;"
+          >
+            <div
+              class="leaflet-tile-container leaflet-zoom-animated"
+              style="z-index: Infinity; left: 0px; top: 0px;"
+            >
+              <img
+                alt=""
+                class="leaflet-tile leaflet-tile-loaded"
+                role="presentation"
+                src="https://a.tile.openstreetmap.org/3/3/3.png"
+                style="width: 256px; height: 256px; left: -211px; top: -169px;"
+              />
+              <img
+                alt=""
+                class="leaflet-tile leaflet-tile-loaded"
+                role="presentation"
+                src="https://b.tile.openstreetmap.org/3/4/3.png"
+                style="width: 256px; height: 256px; left: 45px; top: -169px;"
+              />
+              <img
+                alt=""
+                class="leaflet-tile leaflet-tile-loaded"
+                role="presentation"
+                src="https://b.tile.openstreetmap.org/3/3/4.png"
+                style="width: 256px; height: 256px; left: -211px; top: 87px;"
+              />
+              <img
+                alt=""
+                class="leaflet-tile leaflet-tile-loaded"
+                role="presentation"
+                src="https://c.tile.openstreetmap.org/3/4/4.png"
+                style="width: 256px; height: 256px; left: 45px; top: 87px;"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="leaflet-pane leaflet-shadow-pane"
+        />
+        <div
+          class="leaflet-pane leaflet-overlay-pane"
+        />
+        <div
+          class="leaflet-pane leaflet-marker-pane"
+        />
+        <div
+          class="leaflet-pane leaflet-tooltip-pane"
+        />
+        <div
+          class="leaflet-pane leaflet-popup-pane"
+        />
+      </div>
+      <div
+        class="leaflet-control-container"
+      >
+        <div
+          class="leaflet-top leaflet-left"
+        />
+        <div
+          class="leaflet-top leaflet-right"
+        />
+        <div
+          class="leaflet-bottom leaflet-left"
+        />
+        <div
+          class="leaflet-bottom leaflet-right"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;
