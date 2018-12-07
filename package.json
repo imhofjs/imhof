@@ -31,7 +31,7 @@
   "author": "Roman Zoller",
   "license": "MIT",
   "dependencies": {
-    "@rz0/static-map": "^0.1.0",
+    "@rz0/static-map": "^0.1.1",
     "babel-polyfill": "^6.26.0",
     "leaflet": "^1.3.4",
     "paper-css": "^0.4.1"
@@ -46,7 +46,7 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^22.1.1",
+    "eslint-plugin-jest": "^22.1.2",
     "html-pdf-chrome": "^0.5.0",
     "jest": "^23.6.0",
     "parcel-bundler": "^1.10.3",
