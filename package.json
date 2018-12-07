@@ -1,6 +1,6 @@
 {
   "name": "imhof",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Render map tiles to pdf in the browser with arbitrary resolution.",
   "main": "src/index.js",
   "repository": {
