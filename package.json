@@ -28,7 +28,7 @@
     "print",
     "headless"
   ],
-  "author": "Roman Zoller",
+  "author": "Roman Karavia",
   "license": "MIT",
   "dependencies": {
     "@rz0/static-map": "^0.1.1",

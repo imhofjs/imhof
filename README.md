@@ -4,11 +4,11 @@ Render map tiles to pdf in the browser with arbitrary resolution.
 
 ## Demo
 
-- [Simple demo](https://imhofjs.github.io/?geojson=https://rzoller.ch/data/switzerland.geojson)
+- [Simple demo](https://imhofjs.github.io/?geojson=https://karavia.ch/data/switzerland.geojson)
   in the browser
 - [HiDPI demo](https://imhofjs.github.io/?lat=48.2&lon=16.366&zoom=15&tiles=basemap.at&dpi=300)
   using [basemap.at](https://basemap.at/index_en.html) HiDPI tiles
-- [PDF download demo](https://imhof.herokuapp.com/?geojson=https://rzoller.ch/data/switzerland.geojson)
+- [PDF download demo](https://imhof.herokuapp.com/?geojson=https://karavia.ch/data/switzerland.geojson)
   using Headless Chrome on Heroku
 
 ## Usage

@@ -34,6 +34,6 @@ async function createPdf(chromePort, filename, config) {
 
 withChrome(chromePort => createPdf(
   chromePort, 'map.pdf', {
-    geojson: 'https://rzoller.ch/data/switzerland.geojson',
+    geojson: 'https://karavia.ch/data/switzerland.geojson',
   },
 ));
